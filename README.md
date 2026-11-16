@@ -38,9 +38,11 @@
 | [WiseAdmit Login Automation](https://github.com/Prajesh-Shrestha-Github/Wiseadmit-Login-Automation) | Cypress sign-in suite using the Page Object Model |
 | [SauceDemo QA Portfolio](https://github.com/Prajesh-Shrestha-Github/qa-portfolio-saucedemo) | Test strategy for the SauceDemo website |
 
-## 📊 GitHub stats
+## 🐍 Contribution snake
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Prajesh-Shrestha-Github&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajesh-Shrestha-Github&layout=compact&hide_border=true&theme=transparent" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prajesh-Shrestha-Github/Prajesh-Shrestha-Github/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Prajesh-Shrestha-Github/Prajesh-Shrestha-Github/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
